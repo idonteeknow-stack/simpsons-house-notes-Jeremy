@@ -1,1 +1,3 @@
+I'm a skid and used Claude Sonnet so keep that in mind, I did learn a thing or two though.
+
 # Simpsons House – My Notes ## Wiring plan (targets for later) | Device | GPIO (BCM) | Power | Notes | |-------|------------|-------|------| | Light | 17 | via MOSFET to LED + 220Ω | Needs flyback if using motor | | Fan | 27 | 5V via MOSFET | Flyback diode required | | Servo | 22 (signal)| 5V and GND | Separate 5V supply advised | ## Today’s learning goals - Create a repo and edit a README - Add a Markdown file - Open and close an Issue ## Reflection (fill in) 1. One thing I learnt about GitHub: 2. One thing I found tricky: 3. Where this helps in our project:
